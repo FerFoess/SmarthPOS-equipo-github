@@ -1,0 +1,1 @@
+# SmarthPOS-equipo-github.
