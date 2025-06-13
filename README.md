@@ -11,6 +11,8 @@ Aplicación web desarrollada para gestionar ventas, inventario, clientes y usuar
 | Fer Martínez      | Frontend   | [LinkedIn](https://linkedin.com/in/fermartinez) |
 | Brayan González   | Backend    | [GitHub CV](https://github.com/brayangonzalez/cv) |
 | Gerardo López     | Fullstack  | [PDF CV](/docs/cv_gerardolopez.pdf) |
+| Eduardo Zapatero     | Fullstack  | [PDF CV](/docs/cv_gerardolopez.pdf) |
+
 
 ## 🛠 Tecnologías
 
